@@ -112,4 +112,4 @@ Remove the tooltip from the button. This is to facilitate the button to be used 
 You will update the Reserve Table button to show the modal containing the table reservation form when the button is clicked.
 
 Assignment3(completed):
-![](img/screencapture-127-0-0-1-5500-index-html-2020-09-02-16_07_47.png)
+![](img/screencapture-127-0-0-1-5500-index-html-2020-09-02-17_36_57.png)
