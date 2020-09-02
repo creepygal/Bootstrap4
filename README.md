@@ -153,5 +153,5 @@ You will set the modal header to dark background and change the text color to fl
 You will set the modal body to the pale background
 
 Assignment4(completed):
-![]()
-![]()
+![](img/screencapture-127-0-0-1-5500-index-html-2020-09-02-22_56_39.png)
+![](img/screencapture-127-0-0-1-5500-index-html-2020-09-02-22_57_07.png)
