@@ -108,4 +108,8 @@ Task 3
 In this task you will be updating the Reserve Table button in the Jumbotron:
 
 Remove the tooltip from the button. This is to facilitate the button to be used to trigger the modal containing the table reservation form in the later tasks. A single button can support only one Javascript plugin via the data-* attributes. Make sure to remove the JavaScript script at the bottom of the page. Also remove the corresponding JavaScript code for the tooltip from the bottom of the page.
+
 You will update the Reserve Table button to show the modal containing the table reservation form when the button is clicked.
+
+Assignment3(completed):
+![](img/screencapture-127-0-0-1-5500-index-html-2020-09-02-16_07_47.png)
